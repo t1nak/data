@@ -1,0 +1,3 @@
+#text
+
+https://www.kaggle.com/c/sentiment-analysis-of-covid-19-related-tweets/data
